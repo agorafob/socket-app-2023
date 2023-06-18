@@ -1,7 +1,9 @@
 package com.agorafob.networking;
 
-import ua.ithillel.networking.client.Client;
-import ua.ithillel.networking.server.Server;
+
+
+import com.agorafob.networking.client.Client;
+import com.agorafob.networking.server.Server;
 
 import java.util.Scanner;
 

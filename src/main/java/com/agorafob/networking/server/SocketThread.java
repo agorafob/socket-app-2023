@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-import static ua.ithillel.networking.client.Client.BYE;
+import static com.agorafob.networking.client.Client.BYE;
 
 public class SocketThread extends Thread
 {
